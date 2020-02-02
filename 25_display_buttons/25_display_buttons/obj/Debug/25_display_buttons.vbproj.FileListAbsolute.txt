@@ -1,0 +1,12 @@
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\bin\Debug\25_display_buttons.exe.config
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\bin\Debug\25_display_buttons.exe
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\bin\Debug\25_display_buttons.pdb
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\bin\Debug\25_display_buttons.xml
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\obj\Debug\25_display_buttons.vbprojAssemblyReference.cache
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\obj\Debug\_25_display_buttons.Form1.resources
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\obj\Debug\_25_display_buttons.Resources.resources
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\obj\Debug\25_display_buttons.vbproj.GenerateResource.cache
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\obj\Debug\25_display_buttons.vbproj.CoreCompileInputs.cache
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\obj\Debug\25_display_buttons.exe
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\obj\Debug\25_display_buttons.xml
+C:\Users\GIbb Son Rada\source\prog\25_buttons_display\25_display_buttons\25_display_buttons\obj\Debug\25_display_buttons.pdb
